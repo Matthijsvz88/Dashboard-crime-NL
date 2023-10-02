@@ -1,0 +1,153 @@
+#navbar {
+	overflow: hidden;
+	position: sticky;
+	top: 0;
+	background-color: #2F4F4F;
+	z-index: 1000;
+    color: #F8F8FF;
+    text-align: left;
+    margin-bottom: 5px;
+	height: 70px;
+}
+
+#logo-image {
+	height: 70px
+}
+
+.link {
+	color: #F8F8FF !important;
+	font-size: 18px
+}
+
+
+
+.link:hover {
+    color: #7FFFD4 !important;
+}
+
+#date-header{
+	margin : 0px 0px 0px 5px;
+	font-weight: bold;
+	color: black
+}
+
+#source-link {
+	margin : 0px 0px 5px 6px;
+	font-size: 10px
+}
+	
+#dropdown-div {
+    margin-bottom: 5px;
+    width: 35vw;
+    display: flex
+}
+
+#dropdowntitle {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 8px;
+    margin-top: 3px;
+    display: inline-block;
+}
+.textbox {
+	padding-top: 10px;
+	font-size: 14px; 
+	white-space: pre-line;
+    margin: auto; 
+	padding-left: 20%; 
+	padding-right: 20%
+}
+
+.mb-4{
+	text-align:center;
+	border-radius: 15px 15px 20px 20px
+}
+
+
+.card-header {
+	background-color: #2F4F4F;
+	color:white;
+	border-radius: 15px 15px 0px 0px
+}
+
+.graph-header {
+	background-color: #2F4F4F; 
+	text-align: center;
+	font-size: 16px; 
+	color: white; 
+	height: 30px; 
+	font-family: verdana;
+	padding-top: 5px; 
+	margin-bottom: 0px;
+	border-top-right-radius: 15px; 
+	border-top-left-radius: 15px
+}
+
+#city-picker {
+    grid-area: dropdown;
+	width: 100%;
+	text-align: center;
+    font-size: 18px; 
+	font-family: verdana;
+    border-top-right-radius: 15px; 
+	border-top-left-radius: 15px;
+	display: inline-block
+}
+
+
+#bars > div.js-plotly-plot .plotly .cursor-crosshair {
+    cursor: pointer;
+}
+
+#container {
+	display: grid;
+    grid-template-areas:
+    "left dropdown right"
+	"cards bar line"
+	"cards tables maps"
+	"cards tables maps";
+	grid-template-columns: 10vw 45vw 40vw;
+    grid-template-rows: 5vh 35vh 25vh 35vh;
+    column-gap: 10px;
+	row-gap: 10px;
+	justify-content: space-evenly
+}
+
+
+#table_div {
+	padding-left: 15%; 
+	padding-right: 15%; 
+}
+
+table {
+	max-width: 1600px
+}
+
+.tabs-container {
+	font-size: 14px;
+}
+.single-tab {
+	padding: 15px 15px 15px 15px!important;
+}
+
+.single-tab--selected {
+    color: black !important;
+    font-size: 16px;
+}
+
+
+
+
+@media only screen and (max-width: 1000px) {
+    #container {
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: auto auto auto auto;
+		row-gap: 30px;
+        grid-template-areas: 
+        "cards"
+		"tables"
+		"bar"
+		"line"
+		"maps";
+    }

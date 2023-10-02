@@ -1,0 +1,83 @@
+,Key,Title,Description,CategoryGroupID
+0,T001161,"Misdrijven, totaal","Totaalcategorie voor alle soorten misdrijven. Een misdrijf is een strafbaar feit van de zwaarste soort, als zodanig aangeduid in de strafwetten.",1
+1,CRI1000,1 Vermogensmisdrijven,"Hieronder vallen alle vormen van diefstal en inbraak. Daarnaast vallen verduistering, bedrog, valsheidsmisdrijven, afpersing, bankbreuk en
+ witwassen in deze categorie misdrijven.",2
+2,CRI1100,11 Diefstal/verduistering en inbraak,"Vermogensmisdrijf omschreven in artikel 310-312, 321-325 Wetboek van Strafrecht.",2
+3,CRI1110,111 Diefstal en inbraak met geweld,Vermogensmisdrijf omschreven in artikel 312 Wetboek van Strafrecht.,2
+4,CRI1120,112 Diefstal en inbraak zonder geweld,"Vermogensmisdrijf omschreven in artikel 310-311, 321-325 Wetboek van Strafrecht.",2
+5,CRI1200,12 Bedrog,Vermogensmisdrijf omschreven in artikel 326-338 Wetboek van Strafrecht.,2
+6,CRI1210,121 Oplichting,"Vermogensmisdrijf omschreven in artikel 326 Wetboek van Strafrecht.
+
+Tot 2015 werd Fraude met online handel geregistreerd bij het Meldpunt Internetoplichting en werd het niet in de geregistreerde criminaliteit in deze tabel geteld. Hierdoor is van 2014 op 2015 een grote toename zichtbaar van Oplichting.",2
+7,CRI1220,122 Flessentrekkerij,Vermogensmisdrijf omschreven in artikel 326a Wetboek van Strafrecht.,2
+8,CRI1230,123 Bedrog (overig),Vermogensmisdrijf omschreven in artikel 326b-338 Wetboek van Strafrecht.,2
+9,CRI1300,13 Valsheidsmisdrijven,"Vermogensmisdrijf omschreven in artikel 208-214, 216-223, 225-234 Wetboek van Strafrecht.",2
+10,CRI1310,131 Muntmisdrijf,Vermogensmisdrijf omschreven in artikel 208-214 Wetboek van Strafrecht.,2
+11,CRI1320,132 Valsheid in zegels en merken,Vermogensmisdrijf omschreven in artikel 216-223 Wetboek van Strafrecht.,2
+12,CRI1330,133 Valsheid in geschriften,Vermogensmisdrijf omschreven in artikel 225-234 Wetboek van Strafrecht.,2
+13,CRI1400,14 Heling,Vermogensmisdrijf omschreven in artikel 416-417bis Wetboek van Strafrecht.,2
+14,CRI1500,15 Afpersing en afdreiging,Vermogensmisdrijf omschreven in artikel 317-318 Wetboek van Strafrecht.,2
+15,CRI1600,16 Bankbreuk,Vermogensmisdrijf omschreven in artikel 340-343 Wetboek van Strafrecht.,2
+16,CRI1700,17 Witwassen,Vermogensmisdrijf omschreven in artikel 420bis-420quater Wetboek van Strafrecht.,2
+17,CRI1800,18 Vermogensmisdrijf (overig),"Vermogensmisdrijf omschreven in artikel 314-315, 344-348 Wetboek van Strafrecht.",2
+18,CRI2000,"2 Vernielingen,misdropenborde/gezag","Hieronder vallen brandstichting, alle vormen van vernieling en misdrijven tegen de openbare orde en het openbaar gezag. 
+Voorbeelden van misdrijven tegen de openbare orde en tegen het openbaar gezag zijn opruiing, huis-, computer- en lokaalvredebreuk, deelneming aan een  criminele of terroristische organisatie, openlijke geweldpleging, godslastering, discriminatie en het doen van een valse aangifte. Omdat het delict mensenhandel vaak onder dezelfde feitcode geregistreerd wordt als het delict mensensmokkel worden deze twee delicten samengeteld en weergegeven bij de gewelds- en seksuele misdrijven.",3
+19,CRI2100,21 Vernieling en beschadiging,Misdrijf omschreven in artikel 350-352 Wetboek van Strafrecht.,3
+20,CRI2110,211 Vernieling aan auto,Misdrijf omschreven in artikel 350-352 Wetboek van Strafrecht.,3
+21,CRI2120,212 Vernieling aan openbaar gebouw,Misdrijf omschreven in artikel 350-352 Wetboek van Strafrecht.,3
+22,CRI2130,213 Vernieling middel openb vervoer,Misdrijf omschreven in artikel 350-352 Wetboek van Strafrecht.,3
+23,CRI2150,"215 Vernieling, beschadiging (overig)",Misdrijf omschreven in artikel 350-352 Wetboek van Strafrecht.,3
+24,CRI2200,22 Openbare orde misdrijf,Misdrijf omschreven in artikel 131-151c Wetboek van Strafrecht.,3
+25,CRI2210,221 Openlijke geweldpleging,Misdrijf tegen de openbare orde omschreven in artikel 141 Wetboek van Strafrecht.,3
+26,CRI2211,2211 Openlijk geweld tegen persoon,Misdrijf tegen de openbare orde omschreven in artikel 141 Wetboek van Strafrecht.,3
+27,CRI2212,2212 Openlijke geweld tegen goed,Misdrijf tegen de openbare orde omschreven in artikel 141 Wetboek van Strafrecht.,3
+28,CRI2220,222 Huisvredebreuk,Misdrijf tegen de openbare orde omschreven in artikel 138 Wetboek van Strafrecht.,3
+29,CRI2230,223 Lokaalvredebreuk,Misdrijf tegen de openbare orde omschreven in artikel 139 Wetboek van Strafrecht.,3
+30,CRI2240,224 Computervredebreuk,"Misdrijf tegen de openbare orde omschreven in artikel 138a (tot1.10.2010), artikel 138ab (vanaf 1.10.2010) en artikel 138b Wetboek van Strafrecht. Per 1.10.2010 is artikel 138a vernummerd naar artikel 138ab.",3
+31,CRI2250,225 Discriminatie,Misdrijf tegen de openbare orde omschreven in artikel 137c-137g Wetboek van Strafrecht.,3
+32,CRI2260,226 Openbare orde misdrijf (overig),"Misdrijf tegen de openbare orde omschreven in artikel 131-137, 138a (vanaf 1.10.2010), 139a-140, 142-151c Wetboek van Strafrecht.",3
+33,CRI2300,23 Brandstichting / ontploffing,Misdrijf omschreven in artikel 157-158 Wetboek van Strafrecht.,3
+34,CRI2400,24 Openbaar gezag misdrijf,"Misdrijf omschreven in artikel 177-182, 184-206 Wetboek van Strafrecht. Omdat het delict mensenhandel vaak onder dezelfde feitcode geregistreerd wordt als het delict mensensmokkel worden deze twee delicten samengeteld en weergegeven bij de gewelds- en seksuele misdrijven.",3
+35,CRI2410,241 Niet opvolgen van ambtelijk bevel,Misdrijf tegen het openbaar gezag omschreven in artikel 184 Wetboek van Strafrecht.,3
+36,CRI2420,242 Wederspannigheid,Misdrijf tegen het openbaar gezag omschreven in artikel 180-182 Wetboek van Strafrecht.,3
+37,CRI2430,243 Valse aangifte,Misdrijf tegen het openbaar gezag omschreven in artikel 188 Wetboek van Strafrecht.,3
+38,CRI2450,245 Verblijf ongewenste vreemdeling,Misdrijf tegen het openbaar gezag omschreven in artikel 197 Wetboek van Strafrecht.,3
+39,CRI2460,246 Openbaar gezag misdrijf (overig),"Misdrijf tegen het openbaar gezag omschreven in artikel 177-179, 185-187, 189-196, 197b-206 Wetboek van Strafrecht.",3
+40,CRI3000,3 Gewelds- en seksuele misdrijven,"Hieronder vallen onder andere de gevallen van eenvoudige en zware mishandeling, bedreiging en stalking, de seksuele misdrijven, de
+ levensdelicten moord en doodslag, gijzeling en mensenhandel.",4
+41,CRI3100,31 Mishandeling,Geweldsmisdrijf omschreven in artikel 300-306 Wetboek van Strafrecht.,4
+42,CRI3200,32 Bedreiging en stalking,Geweldsmisdrijf omschreven in artikel 284a-285b Wetboek van Strafrecht.,4
+43,CRI3210,321 Bedreiging,Geweldsmisdrijf omschreven in artikel 284a-285a Wetboek van Strafrecht.,4
+44,CRI3220,322 Stalking,Geweldsmisdrijf omschreven in artikel 285b Wetboek van Strafrecht.,4
+45,CRI3300,33 Seksueel misdrijf,Geweldsmisdrijf omschreven in artikel 239-250 Wetboek van Strafrecht.,4
+46,CRI3310,331 Aanranding,Geweldsmisdrijf omschreven in artikel 246 Wetboek van Strafrecht.,4
+47,CRI3320,332 Verkrachting,Geweldsmisdrijf omschreven in artikel 242 Wetboek van Strafrecht.,4
+48,CRI3330,333 Schennis der eerbaarheid,Geweldsmisdrijf omschreven in artikel 239 Wetboek van Strafrecht.,4
+49,CRI3340,334 Ontucht met minderjarige,Geweldsmisdrijf omschreven in artikel 248a-248e Wetboek van Strafrecht.,4
+50,CRI3350,335 Pornografie,Geweldsmisdrijf omschreven in artikel 240-240b Wetboek van Strafrecht.,4
+51,CRI3360,336 Ontucht met misbruik van gezag,Geweldsmisdrijf omschreven in artikel 249 Wetboek van Strafrecht.,4
+52,CRI3370,337 Seksueel misdrijf (overig),"Geweldsmisdrijf omschreven in artikel 243-245, 247-248, 250 Wetboek van Strafrecht.",4
+53,CRI3400,34 Levensmisdrijf,Geweldsmisdrijf omschreven in artikel 287-296 Wetboek van Strafrecht.,4
+54,CRI3500,35 Vrijheidsbeneming/gijzeling,Geweldsmisdrijf omschreven in artikel 282-282a Wetboek van Strafrecht.,4
+55,CRI3624,36 Mensenhandel en 244 mensensmokkel,"Misdrijven omschreven in artikel 197a en artikel 273f Wetboek van Strafrecht. Hoewel artikel 197a Sr een misdrijf tegen het openbaar gezag is, wordt het hier geteld omdat in de politieregistratie het onderscheid tussen mensenhandel en mensensmokkel niet goed te maken is.",4
+56,CRI3700,37 Geweldsmisdrijf (overig),"Geweldsmisdrijf omschreven in artikel 274-281, 307-308 Wetboek van Strafrecht.",4
+57,CRI4000,4 Misdrijven WvSr (overig),"Alle misdrijven, omschreven in het Wetboek van Strafrecht, niet zijnde een vermogensmisdrijf, een vernieling en openbare orde misdrijf of een gewelds- en seksueel misdrijf.",5
+58,CRI5000,5 Verkeersmisdrijven,"De Wegenverkeerswet 1994 is de basis voor de regelgeving van het wegverkeer in Nederland. In deze wet staat beschreven wat verkeersdelicten (misdrijf of overtreding) zijn. 
+De meest voorkomende verkeersmisdrijven zijn rijden onder invloed en verlaten plaats ongeval.",6
+59,CRI5100,51 Verlaten plaats ongeval,Verkeersmisdrijf omschreven in artikel 7 Wegenverkeerswet.,6
+60,CRI5200,52 Rijden onder invloed,Verkeersmisdrijf omschreven in artikel 8 Wegenverkeerswet.,6
+61,CRI5300,53 Rijden tijdens ontzegging besturen,Verkeersmisdrijf omschreven in artikel 9 Wegenverkeerswet.,6
+62,CRI5400,54 Rijden tijdens rijverbod,Verkeersmisdrijf omschreven in artikel 162 Wegenverkeerswet.,6
+63,CRI5500,55 Voeren vals kenteken,Verkeersmisdrijf omschreven in artikel 41 Wegenverkeerswet.,6
+64,CRI5600,56 Joyriding,Verkeersmisdrijf omschreven in artikel 11 Wegenverkeerswet.,6
+65,CRI5700,57 Weigeren blaastest/bloedonderzoek ed,Verkeersmisdrijf omschreven in artikel 163 Wegenverkeerswet.,6
+66,CRI5800,58 Verkeersmisdrijf (overig),"Verkeersmisdrijf omschreven in artikel 6, 51, 61, 74, 114, 138 Wegenverkeerswet.",6
+67,CRI6000,6 Drugsmisdrijven,"De Opiumwet regelt de opsporing, vervolging en berechting van handelingen die te maken hebben met (verboden) drugsbezit en drugshandel. De wet maakt onderscheid tussen misdrijven en overtredingen. Op grond van de Opiumwet geldt een verbod op het bereiden, bewerken, Verwerken, verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben van middelen die genoemd worden op de zogeheten lijst I (harddrugs) en lijst II (softdrugs). Voorbeelden van de hier bedoelde stoffen zijn cocaïne, heroïne, methadon, morfine, opium en hennep. De in deze tabel gepresenteerde cijfers hebben uitsluitend betrekking op misdrijven.",7
+68,CRI6100,61 Harddrugs,Drugsmisdrijf omschreven in artikel 2 Opiumwet.,7
+69,CRI6200,62 Softdrugs,Drugsmisdrijf omschreven in artikel 3 Opiumwet.,7
+70,CRI6300,6.3 Drugsmisdrijf (overig),"""NA""",7
+71,CRI7000,7 Vuurwapenmisdrijven,"Misdrijf omschreven in artikel 55 Wet Wapens en Munitie. De Wet Wapens en Munitie regelt de opsporing, vervolging en berechting van handelingen die te maken hebben met (verboden) wapenbezit en wapenhandel.",8
+72,CRI9000,9 Misdrijven overige wetten,"Alle misdrijven omschreven in wetten, niet zijnde het Wetboek van Strafrecht, de Wegenverkeerswet, de Opiumwet of de Wet Wapens en
+Munitie.",9
+73,CRI9100,91 Militaire misdrijven,Misdrijf omschreven in artikel 96-166 Wetboek van Militair Strafrecht.,9
+74,CRI9200,92 Misdrijven (overig),"Alle misdrijven omschreven in overige wetten, niet zijnde het Wetboek van Militair Strafrecht.",9

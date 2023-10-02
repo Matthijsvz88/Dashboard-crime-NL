@@ -1,0 +1,476 @@
+Populatie,Key,Regio
+17590672.0,NL01  ,Nederland
+590170.0,PV20  ,Groningen (PV)
+654019.0,PV21  ,Fryslân (PV)
+497743.0,PV22  ,Drenthe (PV)
+1171910.0,PV23  ,Overijssel (PV)
+434771.0,PV24  ,Flevoland (PV)
+2110472.0,PV25  ,Gelderland (PV)
+1369873.0,PV26  ,Utrecht (PV)
+2909827.0,PV27  ,Noord-Holland (PV)
+3753944.0,PV28  ,Zuid-Holland (PV)
+386767.0,PV29  ,Zeeland (PV)
+2592874.0,PV30  ,Noord-Brabant (PV)
+1118302.0,PV31  ,Limburg (PV)
+25579.0,GM1680,Aa en Hunze
+,GM0738,Aalburg
+32452.0,GM0358,Aalsmeer
+27100.0,GM0197,Aalten
+,GM0305,Abcoude
+27954.0,GM0059,Achtkarspelen
+20087.0,GM0482,Alblasserdam
+25934.0,GM0613,Albrandswaard
+110783.0,GM0361,Alkmaar
+73155.0,GM0141,Almelo
+217828.0,GM0034,Almere
+112926.0,GM0484,Alphen aan den Rijn
+10425.0,GM1723,Alphen-Chaam
+57009.0,GM1959,Altena
+3757.0,GM0060,Ameland
+158590.0,GM0307,Amersfoort
+92331.0,GM0362,Amstelveen
+882633.0,GM0363,Amsterdam
+,GM0364,Andijk
+,GM0366,Anna Paulowna
+165611.0,GM0200,Apeldoorn
+,GM0003,Appingedam
+163888.0,GM0202,Arnhem
+68979.0,GM0106,Assen
+17068.0,GM0743,Asten
+6931.0,GM0744,Baarle-Nassau
+24876.0,GM0308,Baarn
+48714.0,GM0489,Barendrecht
+60584.0,GM0203,Barneveld
+,GM0005,Bedum
+15817.0,GM0888,Beek (L.)
+35922.0,GM1954,Beekdaelen
+,GM0370,Beemster
+13408.0,GM0889,Beesel
+,GM0007,Bellingwedde
+34951.0,GM1945,Berg en Dal
+,GM0491,Bergambacht
+18879.0,GM1724,Bergeijk
+13106.0,GM0893,Bergen (L.)
+29723.0,GM0373,Bergen (NH.)
+67894.0,GM0748,Bergen op Zoom
+43850.0,GM1859,Berkelland
+31715.0,GM1721,Bernheze
+,GM0568,Bernisse
+30608.0,GM0753,Best
+26235.0,GM0209,Beuningen
+42084.0,GM0375,Beverwijk
+,GM0063,het Bildt
+43508.0,GM0310,De Bilt
+,GM0585,Binnenmaas
+20718.0,GM1728,Bladel
+12359.0,GM0376,Blaricum
+23732.0,GM0377,Bloemendaal
+,GM0055,Boarnsterhim
+,GM0497,Bodegraven
+35752.0,GM1901,Bodegraven-Reeuwijk
+11030.0,GM0755,Boekel
+,GM0009,Ten Boer
+,GM0064,Bolsward
+25681.0,GM1681,Borger-Odoorn
+24007.0,GM0147,Borne
+22847.0,GM0654,Borsele
+,GM0499,Boskoop
+,GM0756,Boxmeer
+33129.0,GM0757,Boxtel
+184702.0,GM0758,Breda
+,GM0311,Breukelen
+17704.0,GM0501,Brielle
+36077.0,GM1876,Bronckhorst
+20890.0,GM0213,Brummen
+27674.0,GM0899,Brunssum
+15590.0,GM0312,Bunnik
+22325.0,GM0313,Bunschoten
+27155.0,GM0214,Buren
+,GM0381,Bussum
+67188.0,GM0502,Capelle aan den IJssel
+36263.0,GM0383,Castricum
+35517.0,GM0109,Coevorden
+20669.0,GM1706,Cranendonck
+,GM0611,Cromstrijen
+,GM1684,Cuijk
+29397.0,GM0216,Culemborg
+29162.0,GM0148,Dalfsen
+18957.0,GM1891,Dantumadiel
+104572.0,GM0503,Delft
+,GM0010,Delfzijl
+32606.0,GM0762,Deurne
+101446.0,GM0150,Deventer
+31822.0,GM0384,Diemen
+87695.0,GM1980,Dijk en Waard
+26594.0,GM1774,Dinkelland
+,GM0504,Dirksland
+11036.0,GM0221,Doesburg
+58546.0,GM0222,Doetinchem
+26483.0,GM0766,Dongen
+,GM0058,Dongeradeel
+119537.0,GM0505,Dordrecht
+19983.0,GM0498,Drechterland
+27476.0,GM1719,Drimmelen
+42865.0,GM0303,Dronten
+19178.0,GM0225,Druten
+24946.0,GM0226,Duiven
+31731.0,GM1711,Echt-Susteren
+36471.0,GM0385,Edam-Volendam
+119986.0,GM0228,Ede
+9450.0,GM0317,Eemnes
+45389.0,GM1979,Eemsdelta
+,GM1651,Eemsmond
+19823.0,GM0770,Eersel
+,GM0905,Eijsden
+25857.0,GM1903,Eijsden-Margraten
+238326.0,GM0772,Eindhoven
+23740.0,GM0230,Elburg
+107856.0,GM0114,Emmen
+18620.0,GM0388,Enkhuizen
+160640.0,GM0153,Enschede
+33257.0,GM0232,Epe
+27258.0,GM0233,Ermelo
+44152.0,GM0777,Etten-Leur
+,GM1722,Ferwerderadiel
+,GM0070,Franekeradeel
+,GM1921,De Friese Meren
+51597.0,GM1940,De Fryske Marren
+,GM0653,Gaasterlân-Sleat
+21944.0,GM0779,Geertruidenberg
+,GM0236,Geldermalsen
+40131.0,GM1771,Geldrop-Mierlo
+31040.0,GM1652,Gemert-Bakel
+17237.0,GM0907,Gennep
+,GM0689,Giessenlanden
+26557.0,GM0784,Gilze en Rijen
+,GM0511,Goedereede
+51051.0,GM1924,Goeree-Overflakkee
+38950.0,GM0664,Goes
+23979.0,GM0785,Goirle
+58846.0,GM1942,Gooise Meren
+37632.0,GM0512,Gorinchem
+74095.0,GM0513,Gouda
+,GM0693,Graafstroom
+,GM0365,Graft-De Rijp
+,GM0786,Grave
+553417.0,GM0518,'s-Gravenhage (gemeente)
+,GM0241,Groesbeek
+234950.0,GM0014,Groningen (gemeente)
+,GM0015,Grootegast
+14178.0,GM1729,Gulpen-Wittem
+24268.0,GM0158,Haaksbergen
+,GM0788,Haaren
+162898.0,GM0392,Haarlem
+,GM0393,Haarlemmerliede en Spaarnwoude
+159336.0,GM0394,Haarlemmermeer
+30770.0,GM1655,Halderberge
+61798.0,GM0160,Hardenberg
+48857.0,GM0243,Harderwijk
+18511.0,GM0523,Hardinxveld-Giessendam
+,GM0017,Haren
+,GM0395,Harenkarspel
+15904.0,GM0072,Harlingen
+12307.0,GM0244,Hattem
+39189.0,GM0396,Heemskerk
+27557.0,GM0397,Heemstede
+18976.0,GM0246,Heerde
+51119.0,GM0074,Heerenveen
+,GM0398,Heerhugowaard
+86845.0,GM0917,Heerlen
+16470.0,GM1658,Heeze-Leende
+24417.0,GM0399,Heiloo
+56334.0,GM0400,Den Helder
+35940.0,GM0163,Hellendoorn
+40574.0,GM0530,Hellevoetsluis
+93476.0,GM0794,Helmond
+31663.0,GM0531,Hendrik-Ido-Ambacht
+81476.0,GM0164,Hengelo (O.)
+156538.0,GM0796,'s-Hertogenbosch
+17175.0,GM0252,Heumen
+45557.0,GM0797,Heusden
+22312.0,GM0534,Hillegom
+15810.0,GM0798,Hilvarenbeek
+91733.0,GM0402,Hilversum
+88715.0,GM1963,Hoeksche Waard
+35056.0,GM1735,Hof van Twente
+48022.0,GM1966,Het Hogeland
+48778.0,GM1911,Hollands Kroon
+55857.0,GM0118,Hoogeveen
+,GM0018,Hoogezand-Sappemeer
+74298.0,GM0405,Hoorn
+43039.0,GM1507,Horst aan de Maas
+50323.0,GM0321,Houten
+40938.0,GM0406,Huizen
+27533.0,GM0677,Hulst
+33429.0,GM0353,IJsselstein
+27895.0,GM1884,Kaag en Braassem
+54791.0,GM0166,Kampen
+13020.0,GM0678,Kapelle
+66032.0,GM0537,Katwijk
+45324.0,GM0928,Kerkrade
+23048.0,GM1598,Koggenland
+,GM0079,Kollumerland en Nieuwkruisland
+,GM0588,Korendijk
+29415.0,GM0542,Krimpen aan den IJssel
+57062.0,GM1931,Krimpenerwaard
+22943.0,GM1659,Laarbeek
+90707.0,GM1982,Land van Cuijk
+,GM1685,Landerd
+37023.0,GM0882,Landgraaf
+11560.0,GM0415,Landsmeer
+,GM0416,Langedijk
+64110.0,GM1621,Lansingerland
+11528.0,GM0417,Laren (NH.)
+,GM0022,Leek
+,GM0545,Leerdam
+125504.0,GM0080,Leeuwarden
+,GM0081,Leeuwarderadeel
+125074.0,GM0546,Leiden
+27464.0,GM0547,Leiderdorp
+76659.0,GM1916,Leidschendam-Voorburg
+81214.0,GM0995,Lelystad
+,GM0082,Lemsterland
+35928.0,GM1640,Leudal
+30713.0,GM0327,Leusden
+,GM0694,Liesveld
+,GM0733,Lingewaal
+46963.0,GM1705,Lingewaard
+23015.0,GM0553,Lisse
+,GM0808,Lith
+,GM0140,Littenseradiel
+34069.0,GM0262,Lochem
+,GM0329,Loenen
+23768.0,GM0809,Loon op Zand
+14512.0,GM0331,Lopik
+,GM0024,Loppersum
+23084.0,GM0168,Losser
+,GM0333,Maarssen
+,GM1671,Maasdonk
+25504.0,GM0263,Maasdriel
+24028.0,GM1641,Maasgouw
+58362.0,GM1991,Maashorst
+34148.0,GM0556,Maassluis
+121151.0,GM0935,Maastricht
+,GM0936,Margraten
+,GM1663,De Marne
+,GM0025,Marum
+45464.0,GM0420,Medemblik
+18581.0,GM0938,Meerssen
+82613.0,GM1948,Meierijstad
+,GM0083,Menaldumadeel
+,GM1908,Menameradiel
+,GM1987,Menterwolde
+34761.0,GM0119,Meppel
+49199.0,GM0687,Middelburg (Z.)
+,GM0559,Middelharnis
+19484.0,GM1842,Midden-Delfland
+33689.0,GM1731,Midden-Drenthe
+60898.0,GM1952,Midden-Groningen
+,GM0815,Mill en Sint Hubert
+,GM0265,Millingen aan de Rijn
+37313.0,GM1709,Moerdijk
+44644.0,GM1978,Molenlanden
+,GM1927,Molenwaard
+36359.0,GM1955,Montferland
+13818.0,GM0335,Montfoort
+7989.0,GM0944,Mook en Middelaar
+,GM0424,Muiden
+,GM0425,Naarden
+25032.0,GM1740,Neder-Betuwe
+,GM0643,Nederlek
+17323.0,GM0946,Nederweert
+,GM0304,Neerijnen
+,GM0412,Niedorp
+64554.0,GM0356,Nieuwegein
+29304.0,GM0569,Nieuwkoop
+,GM0571,Nieuw-Lekkerland
+,GM0104,Nijefurd
+44311.0,GM0267,Nijkerk
+179100.0,GM0268,Nijmegen
+86332.0,GM1930,Nissewaard
+45593.0,GM1970,Noardeast-Fryslân
+7668.0,GM1695,Noord-Beveland
+31238.0,GM1699,Noordenveld
+48048.0,GM0171,Noordoostpolder
+44365.0,GM0575,Noordwijk
+,GM0576,Noordwijkerhout
+23826.0,GM0820,"Nuenen, Gerwen en Nederwetten"
+28223.0,GM0302,Nunspeet
+,GM0951,Nuth
+25499.0,GM0579,Oegstgeest
+19061.0,GM0823,Oirschot
+32503.0,GM0824,Oisterwijk
+38521.0,GM1895,Oldambt
+23930.0,GM0269,Oldebroek
+31741.0,GM0173,Oldenzaal
+18496.0,GM1773,Olst-Wijhe
+18457.0,GM0175,Ommen
+,GM0881,Onderbanken
+29603.0,GM1586,Oost Gelre
+56535.0,GM0826,Oosterhout
+,GM0580,Oostflakkee
+25680.0,GM0085,Ooststellingwerf
+9639.0,GM0431,Oostzaan
+12074.0,GM0432,Opmeer
+29791.0,GM0086,Opsterland
+93307.0,GM0828,Oss
+,GM0584,Oud-Beijerland
+39387.0,GM1509,Oude IJsselstreek
+14212.0,GM0437,Ouder-Amstel
+,GM0644,Ouderkerk
+10159.0,GM0589,Oudewater
+48266.0,GM1734,Overbetuwe
+32208.0,GM0590,Papendrecht
+44278.0,GM1894,Peel en Maas
+12196.0,GM0765,Pekela
+56572.0,GM1926,Pijnacker-Nootdorp
+92240.0,GM0439,Purmerend
+24598.0,GM0273,Putten
+38140.0,GM0177,Raalte
+,GM0595,Reeuwijk
+22920.0,GM0703,Reimerswaal
+31358.0,GM0274,Renkum
+5651.0,GM0339,Renswoude
+13271.0,GM1667,Reusel-De Mierden
+43435.0,GM0275,Rheden
+20265.0,GM0340,Rhenen
+47099.0,GM0597,Ridderkerk
+,GM0196,Rijnwaarden
+,GM1672,Rijnwoude
+38231.0,GM1742,Rijssen-Holten
+56941.0,GM0603,Rijswijk (ZH.)
+20558.0,GM1669,Roerdalen
+59184.0,GM0957,Roermond
+44955.0,GM0736,De Ronde Venen
+77244.0,GM1674,Roosendaal
+655468.0,GM0599,Rotterdam
+,GM0600,Rozenburg
+1756.0,GM0277,Rozendaal
+23326.0,GM0840,Rucphen
+46833.0,GM0441,Schagen
+,GM0458,Schermer
+10317.0,GM0279,Scherpenzeel
+79644.0,GM0606,Schiedam
+944.0,GM0088,Schiermonnikoog
+,GM0844,Schijndel
+,GM0962,Schinnen
+,GM0608,Schoonhoven
+34152.0,GM1676,Schouwen-Duiveland
+10425.0,GM0965,Simpelveld
+,GM1702,Sint Anthonis
+29731.0,GM0845,Sint-Michielsgestel
+,GM0846,Sint-Oedenrode
+91719.0,GM1883,Sittard-Geleen
+,GM0051,Skarsterlân
+25897.0,GM0610,Sliedrecht
+,GM0040,Slochteren
+23141.0,GM1714,Sluis
+55895.0,GM0090,Smallingerland
+,GM0091,Sneek
+47113.0,GM0342,Soest
+19701.0,GM0847,Someren
+17775.0,GM0848,Son en Breugel
+,GM0612,Spijkenisse
+31851.0,GM0037,Stadskanaal
+17282.0,GM0180,Staphorst
+21947.0,GM0532,Stede Broec
+24333.0,GM0851,Steenbergen
+44741.0,GM1708,Steenwijkerland
+24803.0,GM0971,Stein (L.)
+65240.0,GM1904,Stichtse Vecht
+,GM0617,Strijen
+90300.0,GM1900,Súdwest-Fryslân
+54501.0,GM0715,Terneuzen
+4960.0,GM0093,Terschelling
+13687.0,GM0448,Texel
+37942.0,GM1525,Teylingen
+26401.0,GM0716,Tholen
+42277.0,GM0281,Tiel
+224459.0,GM0855,Tilburg
+21364.0,GM0183,Tubbergen
+33718.0,GM1700,Twenterand
+34221.0,GM1730,Tynaarlo
+32282.0,GM0737,Tytsjerksteradiel
+,GM0282,Ubbergen
+,GM0856,Uden
+13563.0,GM0450,Uitgeest
+31018.0,GM0451,Uithoorn
+21468.0,GM0184,Urk
+361699.0,GM0344,Utrecht (gemeente)
+49981.0,GM1581,Utrechtse Heuvelrug
+10135.0,GM0981,Vaals
+16167.0,GM0994,Valkenburg aan de Geul
+31236.0,GM0858,Valkenswaard
+27466.0,GM0047,Veendam
+67671.0,GM0345,Veenendaal
+21850.0,GM0717,Veere
+,GM0860,Veghel
+45822.0,GM0861,Veldhoven
+68482.0,GM0453,Velsen
+102136.0,GM0983,Venlo
+43964.0,GM0984,Venray
+,GM0620,Vianen
+58788.0,GM1961,Vijfheerenlanden
+74143.0,GM0622,Vlaardingen
+,GM0048,Vlagtwedde
+1195.0,GM0096,Vlieland
+44585.0,GM0718,Vlissingen
+,GM0623,Vlist
+12426.0,GM0986,Voerendaal
+25627.0,GM0626,Voorschoten
+24994.0,GM0285,Voorst
+31783.0,GM0865,Vught
+46309.0,GM1949,Waadhoeke
+17626.0,GM0866,Waalre
+49342.0,GM0867,Waalwijk
+31342.0,GM0627,Waddinxveen
+39939.0,GM0289,Wageningen
+27115.0,GM0629,Wassenaar
+17343.0,GM0852,Waterland
+50346.0,GM0988,Weert
+20766.0,GM0457,Weesp
+,GM0870,Werkendam
+,GM0459,Wervershoof
+51971.0,GM1960,West Betuwe
+19675.0,GM0668,West Maas en Waal
+64306.0,GM1969,Westerkwartier
+19854.0,GM1701,Westerveld
+14944.0,GM0293,Westervoort
+26571.0,GM1950,Westerwolde
+112448.0,GM1783,Westland
+26278.0,GM0098,Weststellingwerf
+14960.0,GM0614,Westvoorne
+24643.0,GM0189,Wierden
+,GM0462,Wieringen
+,GM0463,Wieringermeer
+41344.0,GM0296,Wijchen
+24494.0,GM1696,Wijdemeren
+23921.0,GM0352,Wijk bij Duurstede
+,GM0053,Winsum
+29185.0,GM0294,Winterswijk
+22112.0,GM0873,Woensdrecht
+52882.0,GM0632,Woerden
+24511.0,GM1690,De Wolden
+16381.0,GM0880,Wormerland
+13873.0,GM0351,Woudenberg
+,GM0874,Woudrichem
+,GM0710,Wûnseradiel
+,GM0683,Wymbritseradiel
+157166.0,GM0479,Zaanstad
+29957.0,GM0297,Zaltbommel
+17107.0,GM0473,Zandvoort
+,GM0707,Zederik
+,GM0478,Zeevang
+23348.0,GM0050,Zeewolde
+65987.0,GM0355,Zeist
+44645.0,GM0299,Zevenaar
+,GM0476,Zijpe
+125767.0,GM0637,Zoetermeer
+9302.0,GM0638,Zoeterwoude
+,GM0056,Zuidhorn
+45794.0,GM1892,Zuidplas
+22260.0,GM0879,Zundert
+48330.0,GM0301,Zutphen
+23012.0,GM1896,Zwartewaterland
+44789.0,GM0642,Zwijndrecht
+130668.0,GM0193,Zwolle
