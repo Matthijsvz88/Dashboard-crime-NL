@@ -17,8 +17,8 @@ linkgithub = 'https://github.com/Matthijsvz88/Dashboard-crime-NL'
 
 nav = dbc.Nav(
     [html.Img(src="assets/logopic.png", id = 'logo-image'),
-        dbc.NavLink(["Dashboard Misdaad",html.Br(), "Nederland 2022"], class_name = 'link', href="/"),
-        dbc.NavLink(["Inzichten Misdaad",html.Br(), "Nederland"], class_name = 'link', href="/inzichten"),
+        dbc.NavLink(["Dashboard Misdrijven",html.Br(), "Nederland 2022"], class_name = 'link', href="/"),
+        dbc.NavLink(["Analyse Misdrijven",html.Br(), "Nederland"], class_name = 'link', href="/inzichten"),
         dbc.NavLink(["Check Project",html.Br(),"on GitHub"],target = "_blank",class_name = 'link', href=linkgithub)
     ], id = 'navbar'
 )
